@@ -21,6 +21,6 @@
     "koa-static": "^5.0.0",
     "mongoose": "^5.9.18",
     "querystring": "^0.2.0",
-    "redis": "^3.0.2"
+    "redis": "^3.1.1"
   }
 }
